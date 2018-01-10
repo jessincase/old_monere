@@ -1,0 +1,10 @@
+To DO:
+- Each chat should has authenticated users. Cannot talk anonymously. [request.user]
+- Fix CSS and HTML. 
+- Time Posted: 5 hours ago etc. Implement template tags.
+- Start chatting button
+- Menu dropdown leads to chatroom created by user. 
+- boards url shouldn’t be numbers but the actual category. slugs.
+- Fix post feed. Make it more aesthetic. Title on top. Description below. 
+- Description can upload video. Article. Photo. Then display it.
+- In Chatroom, the object of thing is seen in chat. Maybe displayed on side.  

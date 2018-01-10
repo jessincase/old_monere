@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+
+{% block title %}
+  {{ board.title }} - {{ block.super }}
+{% endblock %}
+
+{% block breadcrumb %}
+  <li class="breadcrumb-item"><a href="{% url 'home' %}">Boards</a></li>
+  <li class="breadcrumb-item active">{{ board.title }}</li>
+{% endblock %}
+
+{% block content %}
+  <div class="mb-4">
+    <a href="{% url 'new_post' board.pk %}" class="btn btn-primary">New post</a>
+  </div>
+
+  <table class="table">
+    <thead class="thead-inverse">
+      <tr>
+        <th>Post</th>
+        <th>Starter</th>
+        <th>Users in Chat</th>
+        <th>Views</th>
+        <th>Last Update</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for post in posts %}
+        <tr>
+          <td><a href="{% url 'chat_room' label=post.room.label %}"> {{ post.title }}</td>
+          <td>{{ post.original_poster.username }}</td>
+          <td>0</td>
+          <td>0</td>
+          <td>{{ post.date_published }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% endblock %}

@@ -1,0 +1,4 @@
+daphne config.asgi:channel_layer --port 8888
+redis-server /usr/local/etc/redis.conf
+python manage.py runworker
+source ~/.virtualenvs/venv_monere/bin/activate
