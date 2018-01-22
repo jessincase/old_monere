@@ -18,6 +18,7 @@ class Board(models.Model):
 
 class Post(models.Model):
     title = models.CharField(max_length=255)
+    description = models.TextField()
     date_published = models.DateTimeField(auto_now_add=True)
     board = models.ForeignKey(Board, related_name='category')
     original_poster = models.ForeignKey(User, related_name='original_poster')

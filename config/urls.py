@@ -49,7 +49,7 @@ urlpatterns = [
         name='password_change'),
     url(r'^settings/password/done/$', auth_views.PasswordChangeDoneView.as_view(template_name='password_change_done.html'),
         name='password_change_done'),
-
+    #url(r'^chatrooms/', chat_views.user_rooms, name='user_rooms'),
     url(r'^boards/(?P<pk>\d+)/$', views.board_posts, name='board_posts'),
     url(r'^boards/(?P<pk>\d+)/new/$', views.new_post, name='new_post'),
     url(r'^(?P<label>[\w-]{,50})/$', chat_views.chat_room, name='chat_room'),

@@ -112,13 +112,13 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Australia/Sydney'
+USE_TZ = True
 
 USE_I18N = True
 
 USE_L10N = True
 
-USE_TZ = True
 
 
 LOGIN_URL = 'login'
@@ -145,6 +145,10 @@ STATICFILES_DIRS = [
     os.path.join(PROJECT_DIR, 'static'),
 ]
 # Channel settings
+
+
+# Channel layer definitions
+# http://channels.readthedocs.org/en/latest/deploying.html#setting-up-a-channel-backend
 CHANNEL_LAYERS = {
     "default": {
         "BACKEND": "asgi_redis.RedisChannelLayer",
@@ -155,7 +159,6 @@ CHANNEL_LAYERS = {
     },
 }
 
-os.environ.get('REDIS_URL', 'redis://localhost:6379')
 # Logging
 LOGGING = {
     'version': 1,

@@ -30,7 +30,7 @@ def new_post(request, pk):
             post = form.save(commit=False)
             post.board = board
             post.original_poster = request.user
-            #post.date_published = datetime.datetime.now()
+
             new_room = None
             while not new_room:
                 with transaction.atomic():

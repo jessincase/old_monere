@@ -1,5 +1,6 @@
 from channels.staticfiles import StaticFilesConsumer
 from monere.chat import consumers
+from channels import route
 
 channel_routing = {
     # This makes Django serve static files from settings.STATIC_URL, similar

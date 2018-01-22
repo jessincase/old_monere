@@ -1,4 +1,5 @@
 {% extends 'base.html' %}
+{% load app_filters %}
 
 {% block title %}
   {{ board.title }} - {{ block.super }}
@@ -20,18 +21,16 @@
         <th>Post</th>
         <th>Starter</th>
         <th>Users in Chat</th>
-        <th>Views</th>
         <th>Last Update</th>
       </tr>
     </thead>
     <tbody>
       {% for post in posts %}
         <tr>
-          <td><a href="{% url 'chat_room' label=post.room.label %}"> {{ post.title }}</td>
+            <td><a href="{% url 'chat_room' label=post.room.label %}"> {{ post.title }} </a> <br> {{ post.description }}</td>
           <td>{{ post.original_poster.username }}</td>
-          <td>0</td>
-          <td>0</td>
-          <td>{{ post.date_published }}</td>
+          <td>{{ post.room.users_in_chat }}</td>
+          <td>{{ post.room.last_update | time_elasped }}</td>
         </tr>
       {% endfor %}
     </tbody>

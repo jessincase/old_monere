@@ -26,7 +26,7 @@
           <td class="align-middle">
             {% with post=board.get_last_post %}
               {% if post %}
-                By {{ post.original_poster.username }} at {{ post.date_published }}
+                  By {{ post.original_poster.username }} at {{ post.date_published }}
                 {% else %}
                     <em>No posts yet.</em>
                 {% endif %}

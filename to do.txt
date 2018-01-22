@@ -1,5 +1,4 @@
 To DO:
-- Each chat should has authenticated users. Cannot talk anonymously. [request.user]
 - Fix CSS and HTML. 
 - Time Posted: 5 hours ago etc. Implement template tags.
 - Start chatting button
@@ -8,3 +7,15 @@ To DO:
 - Fix post feed. Make it more aesthetic. Title on top. Description below. 
 - Description can upload video. Article. Photo. Then display it.
 - In Chatroom, the object of thing is seen in chat. Maybe displayed on side.  
+
+To fix:
+- Fix timestamp and change to local Sydney time.
+- Create users in chat system. Write a test for it.
+- Page size should remain the same. After 15 messages, you can scroll up and down. When messages are added, previous messages on top should disappear. 
+
+
+IMPORTANT:
+- Work on edit post. Make a profile page. 
+- When you click on post, it expands. Also a button “chat”
+- Create a page for displaying user rooms.
+- Create plan for a chatbox. 
