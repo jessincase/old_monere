@@ -117,7 +117,6 @@
                           $('.chat-sidebar').append(data.room_html);
 
                       },
-                      
                     });
 
 

@@ -9,6 +9,8 @@ https://docs.djangoproject.com/en/1.11/ref/settings/
 
 import os
 
+from config.secret_settings import *
+
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROJECT_DIR = os.path.join(BASE_DIR, 'monere')
@@ -19,12 +21,11 @@ TEMPLATE_DIR = os.path.join(PROJECT_DIR, 'templates')
 # See https://docs.djangoproject.com/en/1.11/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '7&ly8s3x-fb&9d3d7qgupuy=_63vk4zz!x*e$13$^!^%^9-=!*'
+
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -111,6 +112,7 @@ AUTH_PASSWORD_VALIDATORS = [
 LANGUAGE_CODE = 'en-us'
 
 TIME_ZONE = 'Australia/Sydney'
+
 USE_TZ = True
 
 USE_I18N = True
@@ -157,25 +159,3 @@ CHANNEL_LAYERS = {
     },
 }
 
-# Logging
-LOGGING = {
-    'version': 1,
-    'disable_existing_loggers': False,
-    'handlers': {
-        'console': {
-            'class': 'logging.StreamHandler',
-        },
-    },
-    'loggers': {
-        'django': {
-            'handlers': ['console'],
-            'propagate': True,
-            'level': 'INFO'
-        },
-        'chat': {
-            'handlers': ['console'],
-            'propagate': False,
-            'level': 'DEBUG',
-        },
-    },
-}

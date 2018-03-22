@@ -2,571 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="476d05c1-06dc-491f-8c86-86be778e7788" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Monere design.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monere/static/img/doodles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monere/static/img/weather.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monere/accounts/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monere/accounts/migrations/0002_auto_20180224_1700.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monere/static/css/popup_chat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monere/static/css/sidebar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monere/static/js/handlebars-v4.0.11.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monere/static/js/infinite.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monere/static/js/jquery.waypoints.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monere/static/js/sidebar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monere/static/sandbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monere/static/sandbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monere/templates/chatted.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monere/templates/edit_post.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monere/templates/my_account.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monere/templates/popup_chatroom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monere/templates/sand.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monere/templates/sandbox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monere/templates/sidebar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/uglifyjs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/align-text/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/align-text/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/align-text/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/align-text/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/amdefine/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/amdefine/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/amdefine/amdefine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/amdefine/intercept.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/amdefine/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/dist/async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/dist/async.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/lib/async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/camelcase/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/camelcase/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/camelcase/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/camelcase/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/center-align/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/center-align/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/center-align/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/center-align/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/center-align/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cliui/.coveralls.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cliui/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cliui/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cliui/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cliui/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cliui/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cliui/node_modules/wordwrap/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cliui/node_modules/wordwrap/README.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cliui/node_modules/wordwrap/example/center.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cliui/node_modules/wordwrap/example/meat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cliui/node_modules/wordwrap/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cliui/node_modules/wordwrap/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cliui/node_modules/wordwrap/test/break.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cliui/node_modules/wordwrap/test/idleness.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cliui/node_modules/wordwrap/test/wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cliui/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cliui/test/cliui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/decamelize/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/decamelize/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/decamelize/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/decamelize/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/.gitmodules" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/.idea/dictionaries/nknappmeier.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/.idea/handlebars.js.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/.istanbul.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/FAQ.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/README.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/appveyor.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/bin/handlebars" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars.runtime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/compiler/ast.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/compiler/base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/compiler/code-gen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/compiler/compiler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/compiler/helpers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/compiler/javascript-compiler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/compiler/parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/compiler/printer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/compiler/visitor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/compiler/whitespace-control.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/decorators.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/decorators/inline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/exception.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/helpers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/helpers/block-helper-missing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/helpers/each.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/helpers/helper-missing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/helpers/if.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/helpers/log.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/helpers/lookup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/helpers/with.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/logger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/no-conflict.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/runtime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/safe-string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/handlebars/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/amd/precompiler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars.runtime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/compiler/ast.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/compiler/base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/compiler/code-gen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/compiler/compiler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/compiler/helpers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/compiler/javascript-compiler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/compiler/printer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/compiler/visitor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/compiler/whitespace-control.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/decorators.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/decorators/inline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/exception.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/helpers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/helpers/block-helper-missing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/helpers/each.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/helpers/helper-missing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/helpers/if.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/helpers/log.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/helpers/lookup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/helpers/with.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/logger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/no-conflict.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/runtime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/safe-string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/handlebars/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/cjs/precompiler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/handlebars.amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/handlebars.amd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/handlebars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/handlebars.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/handlebars.runtime.amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/handlebars.runtime.amd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/handlebars.runtime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/dist/handlebars.runtime.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/docs/compiler-api.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/docs/decorators-api.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars.runtime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/compiler/ast.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/compiler/base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/compiler/code-gen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/compiler/compiler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/compiler/helpers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/compiler/javascript-compiler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/compiler/parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/compiler/printer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/compiler/visitor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/compiler/whitespace-control.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/decorators.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/decorators/inline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/exception.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/helpers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/helpers/block-helper-missing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/helpers/each.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/helpers/helper-missing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/helpers/if.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/helpers/log.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/helpers/lookup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/helpers/with.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/logger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/no-conflict.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/runtime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/safe-string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/handlebars/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/lib/precompiler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/package-lock.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/print-script" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/release-notes.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/handlebars/runtime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/is-buffer/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/is-buffer/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/is-buffer/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/is-buffer/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/is-buffer/test/basic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/AUTHORS.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/.eslintrc.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/jsonp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/load.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/parseXML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/location.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/nonce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/rquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/xhr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/attr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/classes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/prop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/val.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/callbacks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/DOMEval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/access.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/camelCase.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/nodeName.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/parseHTML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/ready-no-deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/ready.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/readyException.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/stripAndCollapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/toType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/var/rsingleTag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/addGetHookIf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/adjustCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/curCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/hiddenVisibleSelectors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/showHide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/cssExpand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/getStyles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/isHiddenWithinTree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rboxStyle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rnumnonpx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/swap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/Data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/var/acceptData.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataPriv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataUser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/deferred/exceptionHook.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/deprecated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/dimensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/effects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/effects/Tween.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/effects/animatedSelector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/alias.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/focusin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/trigger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/exports/amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/exports/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/_evalUrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/buildFragment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/getAll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/setGlobalEval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rcheckableType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rscriptType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rtagName.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/wrapMap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/offset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/queue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/queue/delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/selector-native.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/selector-sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/selector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/serialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/findFilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/dir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/rneedsContext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/siblings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/ObjectFunctionString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/arr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/class2type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/concat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/document.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/documentElement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/fnToString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/getProto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/hasOwn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/indexOf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/isFunction.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/isWindow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/pnum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/push.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/rcssNum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/rnothtmlwhite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/slice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/toString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/kind-of/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/kind-of/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/kind-of/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/kind-of/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/lazy-cache/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/lazy-cache/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/lazy-cache/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/lazy-cache/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/longest/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/longest/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/longest/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/longest/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/example/parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/readme.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/test/bool.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/test/dash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/test/default_bool.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/test/dotted.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/test/long.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/test/num.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/test/parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/test/parse_modified.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/test/short.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/test/whitespace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/example/bool.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/example/boolean_double.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/example/boolean_single.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/example/default_hash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/example/default_singles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/example/divide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/example/line_count.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/example/line_count_options.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/example/line_count_wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/example/nonopt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/example/reflect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/example/short.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/example/string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/example/usage-options.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/example/xup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/readme.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/test/_.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/test/_/argv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/test/_/bin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/test/dash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/test/parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/test/parse_modified.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/test/short.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/test/usage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/optimist/test/whitespace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/repeat-string/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/repeat-string/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/repeat-string/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/repeat-string/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/right-align/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/right-align/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/right-align/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/right-align/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/build/assert-shim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/build/mini-require.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/build/prefix-source-map.jsm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/build/prefix-utils.jsm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/build/suffix-browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/build/suffix-source-map.jsm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/build/suffix-utils.jsm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/build/test-prefix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/build/test-suffix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/array-set.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/base64-vlq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/base64.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/binary-search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/mapping-list.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/quick-sort.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/source-map-consumer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/source-map-generator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/source-node.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/bin/extract-props.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/bin/uglifyjs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/lib/ast.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/lib/compress.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/lib/mozilla-ast.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/lib/output.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/lib/parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/lib/propmangle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/lib/scope.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/lib/sourcemap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/lib/transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/lib/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/dist/source-map.debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/dist/source-map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/dist/source-map.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/dist/source-map.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/lib/array-set.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/lib/base64-vlq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/lib/base64.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/lib/binary-search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/lib/mapping-list.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/lib/quick-sort.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/lib/source-map-consumer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/lib/source-map-generator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/lib/source-node.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/lib/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/source-map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/tools/domprops.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/tools/exports.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/tools/node.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-js/tools/props.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-to-browserify/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-to-browserify/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-to-browserify/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-to-browserify/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-to-browserify/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-to-browserify/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglify-to-browserify/test/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/lib/jquery.waypoints.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/lib/jquery.waypoints.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/lib/noframework.waypoints.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/lib/noframework.waypoints.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/lib/shortcuts/infinite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/lib/shortcuts/infinite.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/lib/shortcuts/inview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/lib/shortcuts/inview.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/lib/shortcuts/sticky.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/lib/shortcuts/sticky.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/lib/waypoints.debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/lib/zepto.waypoints.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/lib/zepto.waypoints.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/licenses.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/src/adapters/jquery-zepto-fn-extension.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/src/adapters/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/src/adapters/noframework.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/src/adapters/zepto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/src/context.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/src/debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/src/group.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/src/shortcuts/infinite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/src/shortcuts/inview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/src/shortcuts/sticky.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/src/waypoint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/test/adapter-fn-spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/test/context-spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/test/debug-spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/test/fixtures/infinite.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/test/fixtures/standard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/test/fixtures/sticky.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/test/group-spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/test/infinite-spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/test/inview-spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/test/lib/coffee-script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/test/lib/jasmine-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/test/lib/jasmine-jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/test/lib/jasmine.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/test/lib/jasmine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/test/lib/require.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/test/lib/testloader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/test/settings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/test/sticky-spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/test/waypoint-spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/waypoints/testem.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/window-size/LICENSE-MIT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/window-size/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/window-size/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/window-size/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/wordwrap/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/wordwrap/README.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/wordwrap/example/center.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/wordwrap/example/meat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/wordwrap/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/wordwrap/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/wordwrap/test/break.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/wordwrap/test/idleness.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/wordwrap/test/wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/yargs/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/yargs/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/yargs/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/yargs/completion.sh.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/yargs/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/yargs/lib/completion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/yargs/lib/parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/yargs/lib/usage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/yargs/lib/validation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/yargs/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/purpose.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/monere/chat/migrations/0002_auto_20180119_2326.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/monere/chat/migrations/0003_room_last_update.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/monere/static/img/shattered.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/monere_project.iml" afterPath="$PROJECT_DIR$/.idea/monere_project.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/settings.py" afterPath="$PROJECT_DIR$/config/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/urls.py" afterPath="$PROJECT_DIR$/config/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monere/accounts/forms.py" afterPath="$PROJECT_DIR$/monere/accounts/forms.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monere/accounts/models.py" afterPath="$PROJECT_DIR$/monere/accounts/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monere/accounts/views.py" afterPath="$PROJECT_DIR$/monere/accounts/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monere/chat/admin.py" afterPath="$PROJECT_DIR$/monere/chat/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monere/chat/consumers.py" afterPath="$PROJECT_DIR$/monere/chat/consumers.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monere/chat/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/monere/chat/migrations/0001_initial.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monere/chat/models.py" afterPath="$PROJECT_DIR$/monere/chat/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monere/chat/views.py" afterPath="$PROJECT_DIR$/monere/chat/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monere/feed/forms.py" afterPath="$PROJECT_DIR$/monere/feed/forms.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monere/feed/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/monere/feed/migrations/0001_initial.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monere/feed/models.py" afterPath="$PROJECT_DIR$/monere/feed/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monere/feed/templatetags/app_filters.py" afterPath="$PROJECT_DIR$/monere/feed/templatetags/app_filters.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monere/feed/views.py" afterPath="$PROJECT_DIR$/monere/feed/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monere/static/chat.css" afterPath="$PROJECT_DIR$/monere/static/chat.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monere/static/chat.js" afterPath="$PROJECT_DIR$/monere/static/chat.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monere/static/css/accounts.css" afterPath="$PROJECT_DIR$/monere/static/css/accounts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monere/static/css/app.css" afterPath="$PROJECT_DIR$/monere/static/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monere/static/skeleton.css" afterPath="$PROJECT_DIR$/monere/static/skeleton.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monere/templates/base.html" afterPath="$PROJECT_DIR$/monere/templates/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monere/templates/posts.html" afterPath="$PROJECT_DIR$/monere/templates/posts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monere/templates/room.html" afterPath="$PROJECT_DIR$/monere/templates/room.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/to do.txt" afterPath="$PROJECT_DIR$/to do.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monere/static/js/sidebar.js" afterPath="$PROJECT_DIR$/monere/static/js/sidebar.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -583,16 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monere/templates/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1215">
-              <caret line="81" column="25" lean-forward="false" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="sidebar.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/monere/static/js/sidebar.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -606,8 +35,20 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="7" />
+            <state relative-caret-position="105">
+              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding>
+                <element signature="e#307#316#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="secret_settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/secret_settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="64" lean-forward="false" selection-start-line="0" selection-start-column="64" selection-end-line="0" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -690,10 +131,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -740,7 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/manage.py" />
         <option value="$PROJECT_DIR$/monere/chat/asgi.py" />
         <option value="$PROJECT_DIR$/monere/feed/admin.py" />
         <option value="$PROJECT_DIR$/monere/templates/new_post.html" />
@@ -782,7 +222,6 @@
         <option value="$PROJECT_DIR$/monere/templates/popup_chatroom.html" />
         <option value="$PROJECT_DIR$/monere/chat/models.py" />
         <option value="$PROJECT_DIR$/monere/feed/models.py" />
-        <option value="$PROJECT_DIR$/config/settings.py" />
         <option value="$PROJECT_DIR$/monere/accounts/models.py" />
         <option value="$PROJECT_DIR$/monere/accounts/forms.py" />
         <option value="$PROJECT_DIR$/monere/static/css/popup_chat.css" />
@@ -791,6 +230,8 @@
         <option value="$PROJECT_DIR$/monere/static/css/sidebar.css" />
         <option value="$PROJECT_DIR$/monere/templates/posts.html" />
         <option value="$PROJECT_DIR$/monere/chat/views.py" />
+        <option value="$PROJECT_DIR$/config/secret_settings.py" />
+        <option value="$PROJECT_DIR$/config/settings.py" />
       </list>
     </option>
   </component>
@@ -811,8 +252,9 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="height" value="709" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -1035,7 +477,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1085,13 +527,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/monere/static/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1455,11 +890,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/secret_settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="64" lean-forward="false" selection-start-line="0" selection-start-column="64" selection-end-line="0" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="105">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="e#307#316#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
