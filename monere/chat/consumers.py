@@ -20,22 +20,22 @@ def ws_connect(message):
     # of websocket). So, this is effectively a version of _get_object_or_404.
     try:
         prefix, label = message['path'].strip('/').split('/')
-        if prefix != 'chat':
+        if prefix != 'popup_chatroom' and prefix != 'chat':
             log.debug('invalid ws path=%s', message['path'])
             return
         room = Room.objects.get(label=label)
     except ValueError:
+        print('valueerror')
         log.debug('invalid ws path=%s', message['path'])
         return
     except Room.DoesNotExist:
+        print('doent exist')
         log.debug('ws room does not exist label=%s', label)
         return
 
     log.debug('chat connect room=%s client=%s:%s',
         room.label, message['client'][0], message['client'][1])
 
-    # Need to be explicit about the channel layer so that testability works
-    # This may be a FIXME?
     room.users_in_chat += 1
     room.save()
     Group('chat-'+label, channel_layer=message.channel_layer).add(message.reply_channel)
@@ -49,32 +49,36 @@ def ws_receive(message):
     try:
         #label = message.channel_session['room']
         label = message['path'].strip('/').split('/')[1]
+
         room = Room.objects.get(label=label)
     except KeyError:
+        print('yer')
         log.debug('no room in channel_session')
         return
     except Room.DoesNotExist:
+        print('no')
         log.debug('recieved message, buy room does not exist label=%s', label)
         return
 
     # Parse out a chat message from the content text, bailing if it doesn't
     # conform to the expected message format.
+
     try:
         data = json.loads(message['text'])
     except ValueError:
+        print('uer')
         log.debug("ws message isn't json text=%s", text)
         return
 
-    if set(data.keys()) != set(['message']): #data.keys() returns only message, not user
+    if set(data.keys()) != set(('user', 'message')) and set(data.keys()) != set(['message']): #data.keys() returns only message, not user
+        print('i guess')
         log.debug("ws message unexpected format data=%s", data)
-        print(data.keys())
         return
 
     if data:
-        print(datetime.now())
         log.debug('chat message room=%s user=%s message=%s',
             room.label, message.user, data['message'])
-
+        print('sucess')
         data['user'] = message.user
         m = room.messages.create(**data)
         # See above for the note about Group

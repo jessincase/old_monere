@@ -1,9 +1,9 @@
 body {
-  background-image: url(../img/shattered.png);
+  background-image: url(../img/weather.png);
 }
 
 .logo {
-  font-family: 'Peralta', cursive;
+  font-family: "Courier New", Courier, monospace;
 }
 
 .logo a {

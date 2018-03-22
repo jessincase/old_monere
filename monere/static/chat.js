@@ -13,7 +13,7 @@ $(function() {
 
     $("#chatform").on("submit", function(event) {
         var message = {
-            user: $('#user').val(),
+            user: $('#message-user').val(),
             message: $('#message').val(),
         }
         chatsock.send(JSON.stringify(message));
@@ -41,4 +41,3 @@ $(function() {
 
     };
 });
-

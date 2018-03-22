@@ -33,8 +33,13 @@
   width: 100%;
   max-width: 960px;
   margin: 0 auto;
-  padding: 0 20px;
-  box-sizing: border-box; }
+  /*padding: 0 20px;*/
+  box-sizing: border-box;
+  padding: 30px 30px 20px;
+  border-bottom: 2px solid white;
+  overflow-y: scroll;
+  height: 575px;
+}
 .column,
 .columns {
   width: 100%;

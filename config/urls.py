@@ -24,6 +24,7 @@ from monere.chat import views as chat_views
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^$', views.home, name='home'),
+    url(r'^sidebar/$', chat_views.user_rooms_sidebar, name='sidebar'),
     url(r'^signup/$', accounts_views.signup, name='signup'),
     url(r'^login/$', auth_views.LoginView.as_view(template_name='login.html'), name='login'),
     url(r'^logout/$', auth_views.LogoutView.as_view(), name='logout'),
@@ -49,10 +50,13 @@ urlpatterns = [
         name='password_change'),
     url(r'^settings/password/done/$', auth_views.PasswordChangeDoneView.as_view(template_name='password_change_done.html'),
         name='password_change_done'),
-    #url(r'^chatrooms/', chat_views.user_rooms, name='user_rooms'),
+    url(r'^settings/account/$', accounts_views.UserUpdateView.as_view(), name='my_account'),
     url(r'^boards/(?P<pk>\d+)/$', views.board_posts, name='board_posts'),
     url(r'^boards/(?P<pk>\d+)/new/$', views.new_post, name='new_post'),
+    url(r'^boards/(?P<pk>\d+)/post/(?P<post_pk>\d+)/edit/$', views.PostUpdateView.as_view(), name='edit_post'),
+    url(r'^popup_chatroom/(?P<label>[\w-]{,50})/$', chat_views.popup_chatroom, name='popup_chatroom'),
     url(r'^(?P<label>[\w-]{,50})/$', chat_views.chat_room, name='chat_room'),
+
 ]
 
 

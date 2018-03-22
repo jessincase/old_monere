@@ -10,9 +10,7 @@ def time_elapsed(value):
     # time = datetime.combine(date.today(), dt.datetime.strptime('09:30', '%H:%M').time()) - datetime.combine(date.today(), value)
     #now = dt.datetime.now()
     now = datetime.now(timezone.utc)
-    print(now)
     time = now - value
-    print(time)
     time = str(time)
     position = time.find('day') - 1
     if position != -2:
