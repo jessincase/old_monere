@@ -50,8 +50,6 @@
           {% if user.is_authenticated %}
             <div class="chat-sidebar">
             {% if rooms %}
-
-                <script type="text/javascript" src='{% static "jquery-1.12.1.min.js" %}'></script>
                 <script type="text/javascript" src='{% static "reconnecting-websocket.min.js" %}'></script>
                 <div style="text-align: center;"><h3>Saved Rooms</h3></div>
                 {% for room in rooms %}
