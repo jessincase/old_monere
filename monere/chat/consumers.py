@@ -1,4 +1,3 @@
-import re
 from datetime import datetime
 from channels.auth import channel_session_user_from_http
 import jsonpickle
@@ -25,11 +24,9 @@ def ws_connect(message):
             return
         room = Room.objects.get(label=label)
     except ValueError:
-        print('valueerror')
         log.debug('invalid ws path=%s', message['path'])
         return
     except Room.DoesNotExist:
-        print('doent exist')
         log.debug('ws room does not exist label=%s', label)
         return
 
@@ -52,11 +49,9 @@ def ws_receive(message):
 
         room = Room.objects.get(label=label)
     except KeyError:
-        print('yer')
         log.debug('no room in channel_session')
         return
     except Room.DoesNotExist:
-        print('no')
         log.debug('recieved message, buy room does not exist label=%s', label)
         return
 
@@ -66,19 +61,16 @@ def ws_receive(message):
     try:
         data = json.loads(message['text'])
     except ValueError:
-        print('uer')
         log.debug("ws message isn't json text=%s", text)
         return
 
     if set(data.keys()) != set(('user', 'message')) and set(data.keys()) != set(['message']): #data.keys() returns only message, not user
-        print('i guess')
         log.debug("ws message unexpected format data=%s", data)
         return
 
     if data:
         log.debug('chat message room=%s user=%s message=%s',
             room.label, message.user, data['message'])
-        print('sucess')
         data['user'] = message.user
         m = room.messages.create(**data)
         # See above for the note about Group

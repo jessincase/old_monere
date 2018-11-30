@@ -39,10 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.humanize',
     'widget_tweaks',
-    'monere.feed',
     'channels',
-    'monere.chat',
-    'monere.accounts',
+    'monere.chat'
 ]
 
 MIDDLEWARE = [

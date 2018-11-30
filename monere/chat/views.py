@@ -22,7 +22,8 @@ def new_room(request):
             if Room.objects.filter(label=label).exists():
                 continue
             new_room = Room.objects.create(label=label)
-    return redirect(chat_room, label=label)
+
+    return JsonResponse(label)
 
 @login_required
 def chat_room(request, label):
@@ -36,7 +37,7 @@ def chat_room(request, label):
     post = get_object_or_404(Post,room=room )
     messages = reversed(room.messages.order_by('-timestamp'))
 
-    return render(request, "room.html", {
+    return JsonResponse({
         'room': room,
         'messages': messages,
         'post': post,
@@ -46,21 +47,17 @@ def chat_room(request, label):
 @login_required
 def popup_chatroom(request, label):
     room = get_object_or_404(Room, label=label)
-    #post = get_object_or_404(Post, room=room)
     messages = reversed(room.messages.order_by('-timestamp'))
     user = request.user
 
-    room_html = render_to_string('popup_chatroom.html', {'room': room, 'messages': messages, 'user': user})
-    output_data = {'room_html': room_html}
-    return JsonResponse(output_data)
-    #return render(request, 'popup_chatroom.html', {'room': room, 'messages': messages})
+    return JsonResponse({'room': room, 'messages': messages, 'user': user})
 
 @login_required
 def user_rooms_sidebar(request):
     rooms = Room.objects.filter(poster=request.user)
     room_count = len(rooms)
 
-    return render(request, "sidebar.html", {'rooms': rooms, 'room_count': room_count})
+    return JsonResponse({ 'rooms': rooms, 'room_count': room_count})
 
 def save_room(request, label):
     room = get_object_or_404(Room, label=label)
@@ -68,4 +65,4 @@ def save_room(request, label):
     user.saved_rooms.add(room)
     user.save()
 
-    #render HttpRe
+    return JsonResponse({'result' : True })
